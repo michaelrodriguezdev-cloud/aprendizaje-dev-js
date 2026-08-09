@@ -1,0 +1,39 @@
+/*Esto le pone color azul y tamaño 32px a todos los <h1> de la página.
+h1 {
+  color: blue;
+  font-size: 32px;
+}*/
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #2c3e50;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+section {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+footer {
+    background-color: dimgray;
+    text-align: center;
+    color: #f4f4f4;
+    padding: 15px;
+}

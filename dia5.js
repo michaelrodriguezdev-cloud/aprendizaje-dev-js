@@ -173,6 +173,3 @@ function jugadoresVeteranos(jugadores){
 //     activo: true
 //   }
 // ]
-
-
-
