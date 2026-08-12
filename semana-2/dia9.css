@@ -1,0 +1,26 @@
+.item{
+background-color:  #e74c3c;
+color: white;
+padding: 30px;
+font-size: 24px;
+text-align: center;
+}
+
+.galeria{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 150px 150px;
+    gap: 15px;
+}
+
+@media (max-width: 768px) {
+  .galeria {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .galeria {
+    grid-template-columns: 1fr;
+  }
+}
