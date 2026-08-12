@@ -33,3 +33,12 @@ sentir que avanzo sin depender de la maya curricular del programa de formación
 
 - Semana 2: HTML/CSS y Flexbox
 - Después: React, Node.js/Express, bases de datos SQL
+
+## Semana 2 — HTML, CSS y Layout
+
+- **Día 7**: HTML semántico + CSS básico
+- **Día 8**: Flexbox
+- **Día 9**: CSS Grid
+- **Día 10**: Responsive Design (media queries)
+- **Proyecto integrador**: Landing page personal combinando 
+  HTML semántico, Flexbox, Grid y diseño responsive
